@@ -1,5 +1,9 @@
+# 221RDB418 Dainis Fjodorovs
+
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10102127&assignment_repo_type=AssignmentRepo)
+
 # stack_brackets
+
 Task. Your friend is making a text editor for programmers. He is currently working on a feature that will
 find errors in the usage of different types of brackets. Code can contain any brackets from the set
 []{}(), where the opening brackets are [,{, and ( and the closing brackets corresponding to them
@@ -22,9 +26,6 @@ Constraints. The length of 𝑆 is at least 1 and at most 105.
 Output Format. If the code in 𝑆 uses brackets correctly, output “Success" (without the quotes). Otherwise,
 output the 1-based index of the first unmatched closing bracket, and if there are no unmatched closing
 brackets, output the 1-based index of the first unmatched opening bracket.
-
-
-
 
 Use the test files
 
