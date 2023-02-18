@@ -39,12 +39,9 @@ def main():
             mismatch = find_mismatch(input_string)
             print(mismatch)
         pass
-    elif text == 'I':
+    else:
         input_string = input()
         mismatch = find_mismatch(input_string)
-        print(mismatch)
-    else:
-        mismatch = find_mismatch(text)
         print(mismatch)
 
 
